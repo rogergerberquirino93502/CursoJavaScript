@@ -1,4 +1,5 @@
-# JavaScript 
+JavaScript 
+
 # Es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos,​ basado en  # prototipos, imperativo, débilmente tipado y dinámico.
 
 # Es un lenguaje multi-paradigma, soporta programación orientada a objetos, programación imperativa y, en menor medida,          # programación 
@@ -12,7 +13,7 @@
 # módulos, clases, promesas, bloques de ámbito, iteradores y generadores,          
 # colecciones de mapas y conjuntos, definición de tipos y más.
 
-# MOtor de JavaScript V8
+# Motor de JavaScript V8
 # V8 es el motor de JavaScript libre y de código abierto, desarrollado por Google, que se utiliza en el navegador web Google     # Chrome, y en otros productos de Google, como Node.js, Chromium y Google Chrome OS.​ Es un motor de JavaScript de código         # abierto, escrito en C++, que implementa ECMAScript y WebAssembly, y que utiliza el compilador Just-in-time (JIT) de Google.
 
 # VSCode
